@@ -80,8 +80,9 @@ if __name__ == '__main__':
 ~~~
 ## Output:
 ~~~
-![image](https://github.com/PREETHI-B0/Experiment-6---Implementation-of-Semantic-Analysis/assets/136311079/c9904a22-cdad-4226-83aa-cc91dad1f761)
-![image](https://github.com/PREETHI-B0/Experiment-6---Implementation-of-Semantic-Analysis/assets/136311079/06ce6918-c100-4d3e-b679-d9f0a22e93a7)
+![Screenshot 2023-11-03 190753](https://github.com/PREETHI-B0/Experiment-6---Implementation-of-Semantic-Analysis/assets/136311079/478d68f9-ea75-4d3f-bbea-6fcdc7f44fcb)
+![Screenshot 2023-11-03 190911](https://github.com/PREETHI-B0/Experiment-6---Implementation-of-Semantic-Analysis/assets/136311079/44714215-1d6a-4ed1-a7e5-cf73a1c2a53d)
+
 ~~~
 
 ## Result
